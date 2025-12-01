@@ -1,82 +1,111 @@
-# 👋 Bonjour, moi c’est Nicolae Ciprian
+**👋 Bonjour, moi c’est Nicolae Ciprian**
+**🎓 Alternant en Systèmes, Réseaux & Sécurité Informatique**
+**📚 Étudiant en 2ᵉ année à l’ETNA – École des Technologies Numériques Avancées (Ivry-sur-Seine)**
+**💼 Disponible en alternance (3 semaines entreprise + 1 vendredi/mois en présentiel)**
+**🌐 Formation à 99 % en e-learning → autonomie + flexibilité**
 
-🎓 Alternant en **Systèmes, Réseaux & Sécurité Informatique**  
-📚 Étudiant en 2ᵉ année à l’**ETNA – École des Technologies Numériques Avancées** (Ivry-sur-Seine)  
-💼 Disponible en alternance (3 semaines en entreprise + 1 vendredi/mois en présentiel)  
-🌐 99 % de la formation assurée en **e-learning**, ce qui me permet d’être très flexible et autonome  
+**🧰 Compétences Techniques**
+**🖥️ Administration Systèmes**
 
----
+Installation & configuration de serveurs Linux (Ubuntu)
 
-## 🧰 Compétences techniques
+Gestion de parc Windows Server : Active Directory, GPO, partages & permissions
 
-### 🖥️ Administration Systèmes
-- Installation & configuration de serveurs **Linux (Ubuntu)**  
-- Gestion de parc **Windows** : Active Directory, GPO, partages, permissions  
-- Mise en place de solutions de **sauvegarde** et sécurisation de postes  
-- Gestion SSH, services réseaux, droits utilisateurs
+Mise en place de solutions de sauvegarde et sécurisation
 
-### 🌐 Réseaux
-- Conception de réseaux : **VLAN**, adressage IP, DHCP, DNS  
-- Analyse réseau avec **Wireshark**  
-- Mise en place et dépannage de réseaux virtuels  
-- Bases de la sécurité réseau (pare-feu, segmentation)
+Gestion SSH, services réseaux, utilisateurs & droits
 
-### 🔒 Cybersécurité
-- Durcissement de systèmes Linux  
-- Analyse de logs (auth, syslog, sécurité)  
-- Mise en conformité aux bonnes pratiques  
-- Détection d'événements suspects et gestion d’incidents niveau 1
+**🌐 Réseaux**
 
-### ⚙️ Scripting & Automatisation
-- **Bash** : création/suppression utilisateurs, gestion groupes & droits  
-- **Python** : analyse de fichiers logs & génération de rapports simples  
-- Automatisation de tâches systèmes & réseau
+Conception : VLAN, adressage IP, DHCP, DNS
 
-### 🧪 Virtualisation
-- Utilisation de **VMware** et **Hyper-V**  
-- Création d’environnements de test  
-- Snapshots, réseau virtuel, installation OS
+Analyse réseau avec Wireshark
 
----
+Dépannage réseaux virtuels (VMware / Hyper-V)
 
-## 📁 Projets en cours de publication sur GitHub
+Notions de sécurité : pare-feu, segmentation, durcissement
 
-### 🌐 Lab Réseaux – VLAN & Analyse Wireshark
-Configuration d’un réseau virtuel complet : VLAN, routage, captures & analyses.
+**🔒 Cybersécurité**
 
-### 🛡️ Durcissement Linux
-Sécurisation SSH, permissions renforcées, audit du système.
+Durcissement Linux (SSH, permissions, audit)
 
-### ⚙️ Scripts Bash – Gestion Utilisateurs
-Automatisation de tâches admins (création d’utilisateurs, groupes, droits).
+Analyse de logs : auth, syslog, journaux de sécurité
 
-### 📊 Analyse de Logs en Python
-Lecture, filtrage et génération de rapports de sécurité basiques.
+Détection d’événements suspects (N1)
 
-### 🧪 Lab Windows – AD + GPO
-Mise en place d’un Active Directory et premières stratégies de groupe.
+Conformité aux bonnes pratiques de sécurité
 
-➡️ Tous ces dépôts seront ajoutés prochainement dans mon profil.
+**⚙️ Scripting & Automatisation**
 
----
+**Bash :** gestion utilisateurs, groupes & droits
 
-## 🎯 Objectif professionnel
+**Python :** analyse de logs, génération de rapports simples
 
-Développer mes compétences en :
+Automatisation de tâches systèmes & réseau
 
-- Administration systèmes Linux/Windows  
-- Réseaux & infrastructure  
-- Sécurité informatique  
-- Automatisation & scripting  
+**🧪 Virtualisation**
 
-Je cherche à évoluer vers un poste d’**Administrateur Systèmes & Réseaux**, ou **Technicien Cybersécurité / Support IT**.
+Utilisation de VMware et Hyper-V
 
----
+Création d’environnements de test complets
 
-## 📫 Contact
+Snapshots, réseaux virtuels, installation OS
 
-- **Email :** marosa_a@etna-alternance.net  
-- **Localisation :** Ivry-sur-Seine (école) — Mobilité dans le **92**  
-- **Alternance :** 3 semaines entreprise + 1 vendredi/mois en présentiel
+**📁 Projets (en cours de publication sur GitHub)**
+**🌐 Lab Réseaux – VLAN & Analyse Wireshark**
 
-Merci de visiter mon profil GitHub !
+Configuration complète d’un réseau virtuel
+
+VLAN, routage, captures, analyses.
+
+**🛡️ Durcissement Linux**
+
+Sécurisation de SSH
+
+Permissions renforcées
+
+Audit système.
+
+**⚙️ Scripts Bash – Gestion Utilisateurs**
+
+Automatisation pour admins : création d’utilisateurs, groupes, droits.
+
+**📊 Analyse de Logs en Python**
+
+Lecture & filtrage de journaux
+
+Génération de rapports de sécurité simples.
+
+**🧪 Lab Windows – AD + GPO**
+
+Mise en place d’un Active Directory
+
+Création et application de premières GPO.
+
+➡️ Tous ces dépôts seront ajoutés prochainement à mon profil GitHub.
+
+**🎯 Objectif Professionnel**
+
+Je souhaite développer mes compétences dans :
+
+Administration Systèmes Linux / Windows
+
+Gestion de réseaux & infrastructure
+
+Sécurité informatique (SI, durcissement, analyse)
+
+Automatisation & scripting
+
+**Je vise des rôles tels que :**
+
+➡️ Administrateur Systèmes & Réseaux
+➡️ Technicien Cybersécurité / Support IT
+
+**📫 Contact**
+
+**📧 Email** : marosa_a@etna-alternance.net
+
+**📍 Localisation :** Ivry-sur-Seine (école) — Mobilité 92
+**📅 Alternance :** 3 semaines entreprise + 1 vendredi/mois en présentiel
+
+**Merci d’avoir visité mon profil GitHub ! 🚀**
